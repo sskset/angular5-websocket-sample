@@ -1,0 +1,12 @@
+<p>
+ I'm client-1!
+</p>
+<div style="width:600px;">
+  <textarea style="width:100%" readonly="readonly" rows="30" id="messages">
+
+  </textarea>
+  <input type="checkbox"> Send to all
+  <input type="checkbox"> Send to client 2
+  <input type="text" [(ngModel)]="msg"><input type="button" value="Send" (click)="Send()">
+  {{msg}}
+</div>

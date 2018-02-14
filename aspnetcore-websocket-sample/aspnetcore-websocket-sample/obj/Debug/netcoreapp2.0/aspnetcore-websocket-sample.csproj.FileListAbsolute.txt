@@ -1,0 +1,11 @@
+D:\github\angular5-websocket-sample\aspnetcore-websocket-sample\aspnetcore-websocket-sample\bin\Debug\netcoreapp2.0\aspnetcore-websocket-sample.deps.json
+D:\github\angular5-websocket-sample\aspnetcore-websocket-sample\aspnetcore-websocket-sample\bin\Debug\netcoreapp2.0\aspnetcore-websocket-sample.runtimeconfig.json
+D:\github\angular5-websocket-sample\aspnetcore-websocket-sample\aspnetcore-websocket-sample\bin\Debug\netcoreapp2.0\aspnetcore-websocket-sample.runtimeconfig.dev.json
+D:\github\angular5-websocket-sample\aspnetcore-websocket-sample\aspnetcore-websocket-sample\bin\Debug\netcoreapp2.0\aspnetcore-websocket-sample.dll
+D:\github\angular5-websocket-sample\aspnetcore-websocket-sample\aspnetcore-websocket-sample\bin\Debug\netcoreapp2.0\aspnetcore-websocket-sample.pdb
+D:\github\angular5-websocket-sample\aspnetcore-websocket-sample\aspnetcore-websocket-sample\obj\Debug\netcoreapp2.0\aspnetcore-websocket-sample.csprojResolveAssemblyReference.cache
+D:\github\angular5-websocket-sample\aspnetcore-websocket-sample\aspnetcore-websocket-sample\obj\Debug\netcoreapp2.0\aspnetcore-websocket-sample.csproj.CoreCompileInputs.cache
+D:\github\angular5-websocket-sample\aspnetcore-websocket-sample\aspnetcore-websocket-sample\obj\Debug\netcoreapp2.0\aspnetcore-websocket-sample.AssemblyInfoInputs.cache
+D:\github\angular5-websocket-sample\aspnetcore-websocket-sample\aspnetcore-websocket-sample\obj\Debug\netcoreapp2.0\aspnetcore-websocket-sample.AssemblyInfo.cs
+D:\github\angular5-websocket-sample\aspnetcore-websocket-sample\aspnetcore-websocket-sample\obj\Debug\netcoreapp2.0\aspnetcore-websocket-sample.dll
+D:\github\angular5-websocket-sample\aspnetcore-websocket-sample\aspnetcore-websocket-sample\obj\Debug\netcoreapp2.0\aspnetcore-websocket-sample.pdb
